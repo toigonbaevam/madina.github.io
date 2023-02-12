@@ -1,0 +1,51 @@
+body {border: 5px solid;
+    width: 900px;
+    height: 880px;
+    font-size: 8px;
+    background-color: orange;
+    padding: 0px 10px 10px 10px;
+    margin:0px auto 0px auto;
+    font-style: italic;
+    
+    
+}
+h1{ margin :5px;
+    padding: 5px 0;
+    color: #1812ca;
+    text-shadow: 5px 4px 5px black;
+    
+}
+html{
+    background-color: rgb(27, 39, 164);
+    font-size: 0px;
+    font-family: "Open Sans";
+   
+}
+img{
+    display: block;
+    margin: 20 auto;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+}
+p,
+li{
+    font-size: 15px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+form input
+form button{
+    padding: 0,5rem;
+    padding-left: 1rem;
+    font-size: 1,8rem;
+    border: none;
+    background-color: aqua;
+    border-radius: 2rem;
+}
+
+button{
+    display: block;
+    margin: 15px auto;
+}
